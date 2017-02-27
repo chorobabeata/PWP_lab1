@@ -5,7 +5,8 @@
 	#define _USE_MATH_DEFINES
 	#include<math.h>
 #endif
-
+#include<string>
+#include<iostream>
 
 int main()
 {	
@@ -16,6 +17,8 @@ int main()
 	#else
 		wynik = cos(M_PI/4.0);
 	#endif
+
+	std::cout<< wynik <<std::endl;
 
 	return 0;
 }
