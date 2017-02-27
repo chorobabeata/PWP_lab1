@@ -1,4 +1,4 @@
-﻿Build started 2017-02-27 11:24:21.
+﻿Build started 2017-02-27 11:34:28.
      1>Project "C:\Users\student\Desktop\PW\1\PWP_lab1\build\Trygonometria\Trygonometria.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Trygonometria.dir\Debug\Trygonometria.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -17,4 +17,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.39
+Time Elapsed 00:00:00.23
