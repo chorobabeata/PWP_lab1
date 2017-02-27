@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/PW/1/PWP_lab1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/student/Desktop/PW/1/PWP_lab1/build/CMakeFiles/Laborka.dir
+C:/Users/student/Desktop/PW/1/PWP_lab1/build/CMakeFiles/ZERO_CHECK.dir
