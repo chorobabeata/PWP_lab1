@@ -1,4 +1,7 @@
+#include<trygonometria.h>
+
 int main()
-{
- return 0;
+{	
+	double wynik = sin_degree(90);
+	return 0;
 }
